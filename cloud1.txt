@@ -1,3 +1,7 @@
 Hello, this is brijesh.
 ready 123
+<<<<<<< HEAD
 xx+yy=aabb
+=======
+i kike to watch tv series.
+>>>>>>> 3cf1898570aac413430e26b06f9432f8621c11ac
